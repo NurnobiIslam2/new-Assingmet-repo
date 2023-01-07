@@ -1,0 +1,175 @@
+.header-box{
+    border: 2px solid white;
+width: 1900px;
+height: 1000px;
+margin: -10px 200px 128px -7px;
+background-image: url(/Assingment/images/banner/banner3.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.header-main{
+    
+    width: 525px;
+    margin: 430px 0px 0px 1200px;
+}
+.header-first-text{
+  font-size: 35px;
+   font-family: 'Work Sans', sans-serif;
+    width: 250px;
+    text-align:right ;
+    margin: 2px 273px;
+    color: white;
+font-weight: 700px;
+    line-height: 50px;
+
+}
+.header-text{
+ font-size: 16px;
+ text-align: right;
+ margin: 2px 1px; 
+color: #FFFFFF;
+margin-top: 30px;
+}
+.main-btn{
+    font-family: 'Work Sans', sans-serif;
+font-size: 20px;
+margin-left:400px;
+margin-top: 2px;
+width: 160;
+height: 47px;
+border-radius: 5px;
+margin-top: 30px;
+color:#005FAC;
+border: 0;
+font-weight: 200;
+}
+.images{
+    width: 569px;
+    height: 723px;
+    margin: -460px 0px -274px 302px;
+}
+.body-text{
+  
+text-align:left;
+width: 400px;
+height: 400px;
+margin: 270px 0px -191px 925px;
+}
+.body-text-list{
+list-style: none;
+margin-left:-38px ;
+}
+.main-section{
+    border: 2px solid white;
+    width: 1900px;
+    height: 769px;
+ margin-top: -130px;
+}
+
+
+.body-main-text{
+    font-size: 25px;
+     width: 200px;
+     text-align:right ;
+     font-weight: 500px;
+    margin-left: -53px;
+}
+.body-paragrap-text{
+text-align: left;
+margin-left: 2px;
+}
+.skills-container{
+display: flex;
+gap: 24px;
+margin-left:570px;
+}
+.section-title{
+margin-left: 810px;
+font-size: 30px;
+font-weight: 600px;
+
+}
+.mindset{
+  margin-top:50px;
+  font-size: 30px;
+  font-weight: 600px;
+   color: #FFFFFF;
+   width: 220px;
+
+
+}
+.contact{
+    margin-left: 295px;
+    background-image: url(/Assingment/images/watch.png);
+    height: 240px;
+    background-repeat: no-repeat;
+}
+.mindset-title{
+padding: 40px 0px 0px 108px;
+
+
+}
+.call-now{
+width: 160px;
+height: 40px;
+border-radius: 5px;
+border: 0px;
+font-size: 20px;
+color: #005FAC;
+
+}
+.section-plan{
+width:1139px;
+height: 280px;
+background-color: black;
+margin-left: 295px;
+margin-top: -50px;
+
+}
+.future-plan{
+    color: #FFFFFF;
+  
+}
+.last-section{
+   
+width:360px;
+height: 207px;
+margin-left: 92px;
+margin-top: 50px;
+
+}
+.plan-description{
+color: #FFFFFF;
+}
+.contact-email{
+  color: #FFFFFF;
+}
+.contact-phone{
+    color: #FFFFFF;
+}
+.subscribe-section{
+    width:360px;
+    height: 207px;
+margin-left: 760px;
+margin-top: -155px;
+}
+.sub{
+    color: #FFFFFF;
+}
+.sub-btn{
+   width: 90px;
+   font-size: 20px; 
+   border-radius: 5px;
+   background-color: #005FAC;
+   margin-top: 10px;
+   border: 0px;
+}
+
+
+
+
+
+
+
+   
